@@ -67,8 +67,14 @@ e) iteration 75000, f) final iteration 100000 are shown below:
 <img src="./images/results_iterations.png" width="600">
 
 
-### TODO: citation 
+### Citation 
 
+This work will be presented on "Proceedings of the 7th International Conference on Smart and Sustainable Technologies – [SpliTech 2022](https://2022.splitech.org/)", organized by University of Split ([FESB](https://www.fesb.unist.hr/) at beautiful island Bol at Brac, Croatia. 
+
+
+Preprint avaiable at: 
+
+If this project is interesting to you, consider citing:
 
 
 
