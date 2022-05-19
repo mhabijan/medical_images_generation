@@ -37,8 +37,7 @@ Install the requirements by running
 
 We use the MM-WHS: Multi-Modality Whole Heart segmentation dataset [MMWHS](https://zmiclab.github.io/zxh/0/mmwhs/), 
 
-<img src="https://zmiclab.github.io/zxh/0/mmwhs/res/MMData2.png" width="480">
-<img src="https://zmiclab.github.io/zxh/0/mmwhs/res/WholeHeartSegment_ErrorMap_WhiteBg.gif" width="162">
+<img src="https://zmiclab.github.io/zxh/0/mmwhs/res/MMData2.png" width="480"> <img src="https://zmiclab.github.io/zxh/0/mmwhs/res/WholeHeartSegment_ErrorMap_WhiteBg.gif" width="162">
 
 To download the dataset you need to send a signed confidality agreement to dataset providers.
 For further instructions on MMWHS dataset download please refer [here](https://zmiclab.github.io/zxh/0/mmwhs/data.html).
