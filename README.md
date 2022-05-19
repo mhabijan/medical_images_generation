@@ -12,7 +12,7 @@ In our work, we presented an image generation approach that uses generative adve
 a conditional discriminator where segmentation masks are used as conditions for image generation. 
 Illustration of used conditional generative adversarial network (cGAN) is shown below: 
 
-<img src="images/cgan1.png">
+<img src="images/cgan1.png" width="500">
     
 We validate the feasibility of GAN-enhanced medical image generation on whole heart 
 computed tomography (CT) images and its seven substructures, namely: left ventricle, right ventricle, 
