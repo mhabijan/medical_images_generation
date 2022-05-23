@@ -72,9 +72,17 @@ e) iteration 75000, f) final iteration 100000 are shown below:
 This work will be presented on "Proceedings of the 7th International Conference on Smart and Sustainable Technologies – [SpliTech 2022](https://2022.splitech.org/)", organized by University of Split ([FESB](https://www.fesb.unist.hr/) at beautiful island Bol at Brac, Croatia. 
 
 
-Preprint avaiable at: 
+Preprint avaiable at: https://arxiv.org/abs/2205.09842v1
 
 If this project is interesting to you, consider citing:
 
+    @misc{https://doi.org/10.48550/arxiv.2205.09842,
+    doi = {10.48550/ARXIV.2205.09842},
+    url = {https://arxiv.org/abs/2205.09842},
+    author = {Habijan, Marija and Galic, Irena},
+    title = {Generation of Artificial CT Images using Patch-based Conditional Generative Adversarial Networks},
+    publisher = {arXiv},
+    year = {2022}
+    }
 
 
